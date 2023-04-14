@@ -1,7 +1,7 @@
 <Dados>
   <Estudante Nome="Matheus"> <!-- Node com mesmo nome-->
     <Endereco>Rua Projetada 100</Endereco>
-    <Email>macoratti@yahoo.com</Email>
+    <Email>marcos10@gmail.com.com</Email>
       <Cidade>Lins</Cidade>
       <Estado>SP</Estado>
   </Estudante>
@@ -33,7 +33,7 @@
     <!--Node com mesmo nome-->
     <Endereco>Rua Equador 98</Endereco>
     <Email>
-      macoratti@yahoo.com
+      marcos10@yahoo.com
     </Email>
       <Cidade>Camprinas</Cidade>
       <Estado>SP</Estado>
